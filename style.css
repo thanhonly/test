@@ -1,0 +1,21 @@
+.pagination-cards .current {
+	z-index: 2;
+	color: #fff !important;
+	cursor: default;
+	background-color: #00B5B8;
+	border-color: #00B5B8;
+	padding: 0.5rem 1rem;
+	font-size: 1.25rem;
+}
+.pagination-cards a {
+	line-height: 1.8;
+	padding: 0.5rem 1rem;
+	font-size: 1.25rem;
+	position: relative;
+	float: left;
+	margin-left: -1px;
+	color: #00A5A8;
+	text-decoration: none;
+	background-color: #fff;
+	border: 1px solid #E4E7ED;
+}
